@@ -3,9 +3,7 @@ import React, { Component } from 'react';
 class DisplayIP extends Component {
     constructor(props) {
         super(props);
-
         this.state = { ips: [] };
-
     }
 
     componentDidMount() {

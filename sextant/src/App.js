@@ -15,9 +15,7 @@ const App = () => {
             <Latency></Latency>
           </Exhibit>
         </div>
-        
       </div>
-
     </div>
   )
 }
